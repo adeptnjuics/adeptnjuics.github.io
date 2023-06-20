@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>ADEPT Project</title><link>https://adeptnjuics.github.io/en/</link><atom:link href="https://adeptnjuics.github.io/en/index.xml" rel="self" type="application/rss+xml"/><description>ADEPT Project</description><generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 17 Jun 2023 00:00:00 +0000</lastBuildDate><image><url>https://adeptnjuics.github.io/media/icon_hu5187adfec1dffd0b5dbf2cdcef4aa12b_138972_512x512_fill_lanczos_center_3.png</url><title>ADEPT Project</title><link>https://adeptnjuics.github.io/en/</link></image><item><title>学生</title><link>https://adeptnjuics.github.io/en/people/2_students/</link><pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate><guid>https://adeptnjuics.github.io/en/people/2_students/</guid><description>&lt;h2 id="硕士研究生-朱俊俊">硕士研究生 朱俊俊&lt;/h2>
+&lt;h2 id="硕士研究生-黄云鹏">硕士研究生 黄云鹏&lt;/h2></description></item><item><title>指导老师</title><link>https://adeptnjuics.github.io/en/people/1_teachers/</link><pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate><guid>https://adeptnjuics.github.io/en/people/1_teachers/</guid><description>&lt;h2 id="马晓星-教授httpsicsnjueducnpeoplexiaoxingmacnindexhtml">&lt;a href="https://ics.nju.edu.cn/people/xiaoxingma/cn/index.html" target="_blank" rel="noopener">马晓星 教授&lt;/a>&lt;/h2>
+&lt;p>南京大学计算机科学与技术系 教授，博士生导师&lt;/p>
+&lt;p>南京大学计算机软件研究所 副所长&lt;/p>
+&lt;p>南京大学计算机软件新技术国家重点实验室&lt;/p>
+&lt;h2 id="姚远-副教授httpscsnjueducnyuanyaoindexhtm">&lt;a href="https://cs.nju.edu.cn/yuanyao/index.htm" target="_blank" rel="noopener">姚远 副教授&lt;/a>&lt;/h2>
+&lt;p>计算机软件新技术国家重点实验室&lt;/p>
+&lt;p>计算机科学与技术系&lt;/p>
+&lt;p>南京大学&lt;/p>
+&lt;h2 id="徐经纬-副研究员httpsicsnjueducnpeoplejingweixuindexhtml">&lt;a href="https://ics.nju.edu.cn/people/jingweixu/index.html" target="_blank" rel="noopener">徐经纬 副研究员&lt;/a>&lt;/h2>
+&lt;p>南京大学计算机软件研究所&lt;/p>
+&lt;h2 id="dr-taolue-chenhttpschentaoluegithubio">&lt;a href="https://chentaolue.github.io/" target="_blank" rel="noopener">Dr Taolue Chen&lt;/a>&lt;/h2>
+&lt;p>PhD, CWI and Free University Amsterdam&lt;/p>
+&lt;p>MSc, Nanjing University&lt;/p>
+&lt;p>BSc, Nanjing University&lt;/p></description></item><item><title>毕业生</title><link>https://adeptnjuics.github.io/en/people/3_graduated_students/</link><pubDate>Sat, 17 Jun 2023 00:00:00 +0000</pubDate><guid>https://adeptnjuics.github.io/en/people/3_graduated_students/</guid><description>&lt;h2 id="硕士研究生-王森">硕士研究生 王森&lt;/h2>
+&lt;p>2020年9月入学，2023年6月毕业。&lt;/p>
+&lt;h2 id="硕士研究生-盛朱恒">硕士研究生 盛朱恒&lt;/h2>
+&lt;p>2020年9月入学，2023年6月毕业。&lt;/p></description></item><item><title>自动驾驶模拟测试平台——ADEPT</title><link>https://adeptnjuics.github.io/en/publication/adept_ccf_chinasoft22/</link><pubDate>Tue, 01 Nov 2022 00:00:00 +0000</pubDate><guid>https://adeptnjuics.github.io/en/publication/adept_ccf_chinasoft22/</guid><description>&lt;p>摘要：&lt;/p>
+&lt;p>近年来，自动驾驶系统（Autonomous Driving System，ADS）的有效的质量保证方法引起了越来越多研究人员的兴趣。在本文中，我们提出了一个新的测试平台 ADEPT，它为基于深度神经网络（Deep Neural Network, DNN）的 ADS 提供了实用且全面的测试方法。ADEPT 基于虚拟模拟器 CARLA 实现，提供了场景构建、ADS 接入、测试执行和记录测试等众多基础功能。ADEPT 具有两种不同的自动驾驶测试场景生成策略。第一，我们基于现实生活中的事故报告，利用自然语言处理技术制造丰富的驾驶场景。第二，我们考虑 ADS 的反馈信息，使用物理上鲁棒的对抗攻击，从而生成闭环的攻击测试场景。后续的实验证实了该平台的有效性。&lt;/p>
+&lt;p>&lt;a href="https://adeptnjuics.github.io/uploads/ADEPT_zh.pdf" title="Paper">Download Paper&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://adeptnjuics.github.io/uploads/the_first_prize_ADEPT.pdf" title="Certificate">First Prize in 2022 CCF China Soft&lt;/a>&lt;/p>
+&lt;div style="position:relative; padding-bottom:75%; width:100%; height:0">
+&lt;iframe
+src="//player.bilibili.com/player.html?bvid=BV17G411A7nv&amp;page=1"
+scrolling="no"
+border="0"
+frameborder="no"
+framespacing="0"
+allowfullscreen="true"
+style="position:absolute; height: 100%; width: 100%;"
+>
+&lt;/iframe>
+&lt;/div></description></item><item><title>ADEPT: A Testing Platform for Simulated Autonomous Driving</title><link>https://adeptnjuics.github.io/en/publication/adept_ase22/</link><pubDate>Sat, 01 Oct 2022 00:00:00 +0000</pubDate><guid>https://adeptnjuics.github.io/en/publication/adept_ase22/</guid><description>&lt;h2 id="abstract">ABSTRACT:&lt;/h2>
+&lt;p>Effective quality assurance methods for autonomous driving systems ADS have attracted growing interests recently. In this paper, we report a new testing platform ADEPT, aiming to provide practically realistic and comprehensive testing facilities for DNN-based ADS. ADEPT is based on the virtual simulator CARLA and provides numerous testing facilities such as scene construction, ADS importation, test execution and recording, etc. In particular, ADEPT features two distinguished test scenario generation strategies designed for autonomous driving. First, we make use of real-life accident reports from which we leverage natural language processing to fabricate abundant driving scenarios. Second, we synthesize physically-robust adversarial attacks by taking the feedback of ADS into consideration and thus are able to generate closed-loop test scenarios. The experiments confirm the efficacy of the platform.&lt;/p>
+&lt;p>&lt;a href="https://dl.acm.org/doi/abs/10.1145/3551349.3559528" title="Paper" target="_blank" rel="noopener">Download Paper&lt;/a>&lt;/p>
+&lt;h2 id="presentation">Presentation:&lt;/h2>
+&lt;style>
+.meta-media {
+position: relative;
+margin-bottom: 30px;
+display: flex;
+width: 100%;
+height: 0;
+padding-bottom: 75%;
+}
+.video {
+position: absolute;
+width: 100%;
+height: 100%;
+left: 0;
+top: 0;
+}
+&lt;/style>
+&lt;div class="meta-media">
+&lt;iframe src="https://www.youtube.com/embed/wSVACDu4mRw" frameborder="no" scrolling="yes" allowfullscreen="allowfullscreen" high_quality="1" framespacing="1" class="video" >
+&lt;/iframe>
+&lt;/div>
+&lt;h2 id="demo-show">Demo Show:&lt;/h2>
+&lt;style>
+.meta-media {
+position: relative;
+margin-bottom: 30px;
+display: flex;
+width: 100%;
+height: 0;
+padding-bottom: 75%;
+}
+.video {
+position: absolute;
+width: 100%;
+height: 100%;
+left: 0;
+top: 0;
+}
+&lt;/style>
+&lt;div class="meta-media">
+&lt;iframe src="https://www.youtube.com/embed/evMorf0uR_s" frameborder="no" scrolling="yes" allowfullscreen="allowfullscreen" high_quality="1" framespacing="1" class="video" >
+&lt;/iframe>
+&lt;/div></description></item><item><title>Slides</title><link>https://adeptnjuics.github.io/en/slides/example/</link><pubDate>Tue, 05 Feb 2019 00:00:00 +0000</pubDate><guid>https://adeptnjuics.github.io/en/slides/example/</guid><description>&lt;h1 id="create-slides-in-markdown-with-wowchemy">Create slides in Markdown with Wowchemy&lt;/h1>
+&lt;p>&lt;a href="https://wowchemy.com/" target="_blank" rel="noopener">Wowchemy&lt;/a> | &lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p>
+&lt;hr>
+&lt;h2 id="features">Features&lt;/h2>
+&lt;ul>
+&lt;li>Efficiently write slides in Markdown&lt;/li>
+&lt;li>3-in-1: Create, Present, and Publish your slides&lt;/li>
+&lt;li>Supports speaker notes&lt;/li>
+&lt;li>Mobile friendly slides&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="controls">Controls&lt;/h2>
+&lt;ul>
+&lt;li>Next: &lt;code>Right Arrow&lt;/code> or &lt;code>Space&lt;/code>&lt;/li>
+&lt;li>Previous: &lt;code>Left Arrow&lt;/code>&lt;/li>
+&lt;li>Start: &lt;code>Home&lt;/code>&lt;/li>
+&lt;li>Finish: &lt;code>End&lt;/code>&lt;/li>
+&lt;li>Overview: &lt;code>Esc&lt;/code>&lt;/li>
+&lt;li>Speaker notes: &lt;code>S&lt;/code>&lt;/li>
+&lt;li>Fullscreen: &lt;code>F&lt;/code>&lt;/li>
+&lt;li>Zoom: &lt;code>Alt + Click&lt;/code>&lt;/li>
+&lt;li>&lt;a href="https://revealjs.com/pdf-export/" target="_blank" rel="noopener">PDF Export&lt;/a>&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="code-highlighting">Code Highlighting&lt;/h2>
+&lt;p>Inline code: &lt;code>variable&lt;/code>&lt;/p>
+&lt;p>Code block:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-python" data-lang="python">&lt;span class="line">&lt;span class="cl">&lt;span class="n">porridge&lt;/span> &lt;span class="o">=&lt;/span> &lt;span class="s2">&amp;#34;blueberry&amp;#34;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">if&lt;/span> &lt;span class="n">porridge&lt;/span> &lt;span class="o">==&lt;/span> &lt;span class="s2">&amp;#34;blueberry&amp;#34;&lt;/span>&lt;span class="p">:&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="nb">print&lt;/span>&lt;span class="p">(&lt;/span>&lt;span class="s2">&amp;#34;Eating...&amp;#34;&lt;/span>&lt;span class="p">)&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h2 id="math">Math&lt;/h2>
+&lt;p>In-line math: $x + y = z$&lt;/p>
+&lt;p>Block math:&lt;/p>
+&lt;p>$$
+f\left( x \right) = ;\frac{{2\left( {x + 4} \right)\left( {x - 4} \right)}}{{\left( {x + 4} \right)\left( {x + 1} \right)}}
+$$&lt;/p>
+&lt;hr>
+&lt;h2 id="fragments">Fragments&lt;/h2>
+&lt;p>Make content appear incrementally&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-fallback" data-lang="fallback">&lt;span class="line">&lt;span class="cl">{{% fragment %}} One {{% /fragment %}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{% fragment %}} **Two** {{% /fragment %}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{% fragment %}} Three {{% /fragment %}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Press &lt;code>Space&lt;/code> to play!&lt;/p>
+&lt;span class="fragment " >
+One
+&lt;/span>
+&lt;span class="fragment " >
+&lt;strong>Two&lt;/strong>
+&lt;/span>
+&lt;span class="fragment " >
+Three
+&lt;/span>
+&lt;hr>
+&lt;p>A fragment can accept two optional parameters:&lt;/p>
+&lt;ul>
+&lt;li>&lt;code>class&lt;/code>: use a custom style (requires definition in custom CSS)&lt;/li>
+&lt;li>&lt;code>weight&lt;/code>: sets the order in which a fragment appears&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;h2 id="speaker-notes">Speaker Notes&lt;/h2>
+&lt;p>Add speaker notes to your presentation&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{% speaker_note %}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> Only the speaker can read these notes
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="k">-&lt;/span> Press &lt;span class="sb">`S`&lt;/span> key to view
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> {{% /speaker_note %}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;p>Press the &lt;code>S&lt;/code> key to view the speaker notes!&lt;/p>
+&lt;aside class="notes">
+&lt;ul>
+&lt;li>Only the speaker can read these notes&lt;/li>
+&lt;li>Press &lt;code>S&lt;/code> key to view&lt;/li>
+&lt;/ul>
+&lt;/aside>
+&lt;hr>
+&lt;h2 id="themes">Themes&lt;/h2>
+&lt;ul>
+&lt;li>black: Black background, white text, blue links (default)&lt;/li>
+&lt;li>white: White background, black text, blue links&lt;/li>
+&lt;li>league: Gray background, white text, blue links&lt;/li>
+&lt;li>beige: Beige background, dark text, brown links&lt;/li>
+&lt;li>sky: Blue background, thin dark text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;ul>
+&lt;li>night: Black background, thick white text, orange links&lt;/li>
+&lt;li>serif: Cappuccino background, gray text, brown links&lt;/li>
+&lt;li>simple: White background, black text, blue links&lt;/li>
+&lt;li>solarized: Cream-colored background, dark green text, blue links&lt;/li>
+&lt;/ul>
+&lt;hr>
+&lt;section data-noprocess data-shortcode-slide
+data-background-image="/media/boards.jpg"
+>
+&lt;h2 id="custom-slide">Custom Slide&lt;/h2>
+&lt;p>Customize the slide style and background&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-markdown" data-lang="markdown">&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">background-image&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;/media/boards.jpg&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">background-color&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;#0000FF&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">{{&lt;span class="p">&amp;lt;&lt;/span> &lt;span class="nt">slide&lt;/span> &lt;span class="na">class&lt;/span>&lt;span class="o">=&lt;/span>&lt;span class="s">&amp;#34;my-style&amp;#34;&lt;/span> &lt;span class="p">&amp;gt;&lt;/span>}}
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h2 id="custom-css-example">Custom CSS Example&lt;/h2>
+&lt;p>Let&amp;rsquo;s make headers navy colored.&lt;/p>
+&lt;p>Create &lt;code>assets/css/reveal_custom.css&lt;/code> with:&lt;/p>
+&lt;div class="highlight">&lt;pre tabindex="0" class="chroma">&lt;code class="language-css" data-lang="css">&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h1&lt;/span>&lt;span class="o">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h2&lt;/span>&lt;span class="o">,&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">.&lt;/span>&lt;span class="nc">reveal&lt;/span> &lt;span class="nt">section&lt;/span> &lt;span class="nt">h3&lt;/span> &lt;span class="p">{&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl"> &lt;span class="k">color&lt;/span>&lt;span class="p">:&lt;/span> &lt;span class="kc">navy&lt;/span>&lt;span class="p">;&lt;/span>
+&lt;/span>&lt;/span>&lt;span class="line">&lt;span class="cl">&lt;span class="p">}&lt;/span>
+&lt;/span>&lt;/span>&lt;/code>&lt;/pre>&lt;/div>&lt;hr>
+&lt;h1 id="questions">Questions?&lt;/h1>
+&lt;p>&lt;a href="https://discord.gg/z8wNYzb" target="_blank" rel="noopener">Ask&lt;/a>&lt;/p>
+&lt;p>&lt;a href="https://wowchemy.com/docs/content/slides/" target="_blank" rel="noopener">Documentation&lt;/a>&lt;/p></description></item><item><title/><link>https://adeptnjuics.github.io/en/admin/config.yml</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://adeptnjuics.github.io/en/admin/config.yml</guid><description/></item></channel></rss>
